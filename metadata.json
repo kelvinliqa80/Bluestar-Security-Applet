@@ -1,0 +1,6 @@
+{
+  "name": "Bluestar Security Solutions Company Profile",
+  "description": "Comprehensive corporate profile booklet and interactive presentation for Bluestar Security Solutions Limited, featuring tactical security capabilities, executive command squad, service portfolio, multi-theme booklet viewer, and AI booklet prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
